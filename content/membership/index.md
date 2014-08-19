@@ -6,11 +6,8 @@ Chimera is now open to membership! **Before applying for membership, please read
 
 - [Our current status](/about/status/)
 - [Our space](/about/space/)
-- [Our membership agreement](/membership/agreement/)
+- [Our membership agreement](https://docs.google.com/document/d/1HLFmj0rFuK1uI5WViTvqVvMNKwryNCidUBK0wHjH_g8/edit?usp=sharing)
 
-Currently, membership is **$45/month in addition to volunteering time**. 
-
-You can volunteer to help setup and run events and meetups, help us clean, or improve the space in some way.
 
 The **key reasons to become a member of Chimera** include:
 
@@ -25,11 +22,13 @@ The **key reasons to become a member of Chimera** include:
 - Our large library of books
 - Access any of our new equipment (we're working on getting 3D printers, a laser cutter, a vinyl cutter and more into the space)
 - Host your own meetups at Chimera!
-- *And most importantly, being part of a core group of people who are starting the first maker space in Sonoma County*
+- *And most importantly, being part of a core group of people who are starting the first community maker space in Sonoma County*
 
 If this sounds like something you'd love to be a part of, please click the button below!
 
-<a href="https://chimera.memberful.com/orders/new?plan=1912" class="btn btn-primary btn-lg">Become a Member</a>
+Membership is currently just **$45/month**. 
+
+<p class="text-center"><a href="https://chimera.memberful.com/orders/new?plan=1912" class="btn btn-primary btn-lg">Become a member now!</a></p>
 
 If you haven't seen our space yet but are interested in being one of our first members, [come to a meetup](/calendar/) or [contact us](/contact/) to setup a tour.
 
