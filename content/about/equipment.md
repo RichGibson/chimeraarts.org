@@ -6,7 +6,7 @@ Chimera has a growing collection of **awesome tools and equipment** at [our spac
 
 ## Fabrication
 
-- 3D printer (Solidoodle)
+- 3D printers (Lulzbot TAZ)
 - Benchtop multi-axis CNC
 
 
