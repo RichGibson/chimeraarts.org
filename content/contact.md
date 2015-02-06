@@ -19,7 +19,7 @@ If you'd like to donate equipment, time or money, please head on over to our [Do
 
 ## Want to Teach?
 
-If you're interested in teaching at Chimera, please learn more no our [Teachers page](/about/teaching/).
+If you're interested in teaching at Chimera, please learn more on our [Teachers page](/about/teaching/).
 
 
 ## Stay In Touch
