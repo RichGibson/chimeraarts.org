@@ -2,19 +2,22 @@
 title: "Donate"
 ---
 
+## Donate Now!
+
+<form style="margin: 30px 0; padding: 15px 30px; background: #f6f6f6;" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+  <input type="hidden" name="cmd" value="_s-xclick">
+  <input type="hidden" name="hosted_button_id" value="RNNAFX2NESYH4">
+  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+  <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+Your cash donation will go to helping us pay for rent and utilities, purchase equipment and supplies and put on events, meetups and classes!
+
+---
 
 ## Equipment
 
 **Got something awesome you want us to have?** If you have equipment that you'd like to donate, please have a look at our [Wishlist page](/wishlist/) to see what we're in need of and how equipment donations work at Chimera.
-
-
-## Money
-
-**Money burning a hole through your pocket?** Chimera is always happy to receive cash donations!
-
-**[Please go here to donate to Chimera!](https://chimera.nationbuilder.com/donate)**
-
-Your cash donation will go to helping us pay for rent and utilities, purchase equipment and supplies and put on events, meetups and classes!
 
 
 ## Volunteering
