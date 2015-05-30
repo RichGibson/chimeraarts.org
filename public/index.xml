@@ -1,203 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Recent Content on Chimera Arts and Maker Space </title>
-      <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://www.chimeraarts.org/index.xml</link>
-    
-    
-    
-    <updated>Tue, 01 Jan 2008 00:00:00 UTC</updated>
-    
-    <item>
-      <title>Branding Assets</title>
-      <link>http://www.chimeraarts.org/about/assets</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://www.chimeraarts.org/about/assets</guid>
-      <description>
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Logo&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/static/assets/logo/chimera-logo.png&#34;&gt;PNG file&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/static/assets/logo/chimera-logo.psd&#34;&gt;PSD file&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/static/assets/logo/chimera-logo.eps&#34;&gt;EPS file&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/static/assets/logo/chimera-logo.dwg&#34;&gt;DWG file&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Current Status</title>
-      <link>http://www.chimeraarts.org/about/status</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://www.chimeraarts.org/about/status</guid>
-      <description>
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Membership&lt;/h2&gt;
-
-&lt;div class=&#34;alert alert-success&#34;&gt;Chimera is currently &lt;strong&gt;open for membership in our mini-makerspace&lt;/strong&gt; in the back lot of the Ford Garage building in downtown Sebastopol.&lt;/div&gt;
-
-&lt;p&gt;Our main space at Chimera is undergoing construction and should be open in a few months (&lt;em&gt;no, we don&amp;rsquo;t have a specific date yet, sorry!&lt;/em&gt;).&lt;/p&gt;
-
-&lt;p&gt;Learn more about our &lt;a href=&#34;/about/space/&#34;&gt;current space&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Fiscal Sponsorship&lt;/h2&gt;
-
-&lt;p&gt;Chimera is fiscally sponsored by &lt;a href=&#34;http://sebarts.org/&#34;&gt;Sebastopol Center for the Arts&lt;/a&gt; which is the organization that allows us to accept charitable donations.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_2&#34;&gt;Learn More&amp;hellip;&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Learn more about &lt;a href=&#34;/membership/&#34;&gt;membership&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Learn more about &lt;a href=&#34;/about/space/&#34;&gt;our space&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About Chimera</title>
-      <link>http://www.chimeraarts.org/about</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://www.chimeraarts.org/about</guid>
-      <description>
-
-&lt;p&gt;Chimera is a community arts and maker space in Sebastopol, California. We&amp;rsquo;re a diverse group of artists, makers, hackers and inventors who share a common desire to create, share and learn from each other.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Learn More&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Read our &lt;a href=&#34;/about/faq/&#34;&gt;FAQ&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Check out our current &lt;a href=&#34;/about/status/&#34;&gt;organization status&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;See what &lt;a href=&#34;/about/equipment/&#34;&gt;tools and equipment&lt;/a&gt; we offer.&lt;/li&gt;
-&lt;li&gt;Read our &lt;a href=&#34;/about/mission/&#34;&gt;mission and vision statements&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Learn about &lt;a href=&#34;/about/history/&#34;&gt;Chimera&amp;rsquo;s history&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;See who is on our &lt;a href=&#34;/about/leadership/&#34;&gt;board and leadership committees&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Learn about our &lt;a href=&#34;/about/space/&#34;&gt;current space&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/about/teaching/&#34;&gt;Teach at Chimera&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;View our &lt;a href=&#34;/press/&#34;&gt;press page&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Download our &lt;a href=&#34;/about/assets/&#34;&gt;logo and other assets&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Interested in donating? Checkout our &lt;a href=&#34;/donate/&#34;&gt;Donate page&lt;/a&gt; and our &lt;a href=&#34;/wishlist/&#34;&gt;Wishlist&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Lee Vandeveer</title>
-      <link>http://www.chimeraarts.org/members/lee-vandeveer</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://www.chimeraarts.org/members/lee-vandeveer</guid>
-      <description>&lt;p&gt;I am a painter and educator and the desire to explore new artistic possibilities through community at Chimera.  I taught high school art(all grades)and have a keen desire to create classes for multi-age groups.  I am excited to be a member of such an amazing maker community.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Chimera&#39;s Space</title>
-      <link>http://www.chimeraarts.org/about/space</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://www.chimeraarts.org/about/space</guid>
-      <description>
-
-&lt;figure class=&#34;block-image text-center&#34;&gt;
-  &lt;img src=&#34;/static/img/photos/portable-pano.jpg&#34; class=&#34;img-responsive img-thumbnail&#34;&gt;
-  
-    &lt;figcaption class=&#34;text-muted&#34;&gt;Planning session at the mini-makerspace.&lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Current Space&lt;/h2&gt;
-
-&lt;p&gt;Chimera is currently renting a small portable office building that is our space for regular meetups, classes, events, and as of December 2013, membership!&lt;/p&gt;
-
-&lt;p&gt;This space is great for anyone doing small arts and crafts, jewelry, software or hardware design or anyone working on a computer or who doesn&amp;rsquo;t require a lot of space to work.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Curious about what equipment and tools we have?&lt;/strong&gt; Check out our &lt;a href=&#34;/about/equipment/&#34;&gt;list of equipment&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;If this sounds interesting to you, learn more about &lt;a href=&#34;/membership/&#34;&gt;membership&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Future Space&lt;/h2&gt;
-
-&lt;p&gt;We&amp;rsquo;re in the process of an effort to rent a larger fabrication facility that will serve the needs of members that want to do metalwork and other large/messy forms of art.&lt;/p&gt;
-
-&lt;p&gt;If you&amp;rsquo;re interested in getting involved in our planning process, check out our &lt;a href=&#34;https://groups.google.com/forum/#!forum/chimera-art-space&#34;&gt;Google Group&lt;/a&gt; and &lt;a href=&#34;http://eepurl.com/zRv7D&#34;&gt;signup to our newsletter&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Nancy L.T. Hamilton</title>
-      <link>http://www.chimeraarts.org/members/nancy-lt-hamilton</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://www.chimeraarts.org/members/nancy-lt-hamilton</guid>
-      <description>&lt;p&gt;I’m Nancy L. T. Hamilton (middle initials stand for Lee Tool or as others will testify, the L. T. stands for “Loose Tongue”) and I am a jeweler, a jewelry designer and an artist.  I create jewelry that I call  “modern romantic”.   My jewelry tells stories.&lt;/p&gt;
-
-&lt;p&gt;I use a variety of different materials in creating my work.  The design dictates the type of material that is used.&lt;/p&gt;
-
-&lt;p&gt;I create educational videos and content that you can find &lt;a href=&#34;http://www.nancylthamilton.com/&#34;&gt;on my website&lt;/a&gt; and &lt;a href=&#34;http://www.youtube.com/user/nancylthamilton&#34;&gt;my YouTube channel&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mission and Vision</title>
-      <link>http://www.chimeraarts.org/about/mission</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://www.chimeraarts.org/about/mission</guid>
-      <description>
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Our Mission&lt;/h2&gt;
-
-&lt;p&gt;We aim to provide resources, education and community to creative people in Sonoma County and California’s North Bay.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Our Vision&lt;/h2&gt;
-
-&lt;p&gt;Chimera Arts &amp;amp; Maker Space brings access to equipment, supplies, space and education for artists, makers, hackers, inventors and creative people of all types. We strive to positively influence the arts and maker communities in Sonoma County, California.&lt;/p&gt;
-
-&lt;p&gt;Chimera believes that by keeping talented people in the North Bay, Sonoma County will become a more vibrant, modern and competitive region as a whole. We are working to engage with people of all ages to show them new, innovative forms of expression and creation.&lt;/p&gt;
-
-&lt;p&gt;We give people new, relevant skills and experience for a changing world by encouraging entrepreneurship and innovation in the region.&lt;/p&gt;
-
-&lt;p&gt;Chimera is creating a thriving and diverse community of creative people that will have a profound impact on Sonoma County.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bruce Shapiro</title>
-      <link>http://www.chimeraarts.org/members/bruce-shapiro</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://www.chimeraarts.org/members/bruce-shapiro</guid>
-      <description>&lt;p&gt;Trained for and practiced internal medicine for five years, before discovering what was to become a lifelong obsession with connecting things that move to a computer. My first experiments with stepper motors in 1990 resulted in Eggbot&amp;ndash; a spherical plotter for decorating my kids&amp;rsquo; Easter eggs.  Twenty years later I teamed up with Evil Mad Science Laboratories, which led to its release as an &lt;a href=&#34;http://egg-bot.com/&#34;&gt;open-source project&lt;/a&gt; and popular seller on their site.&lt;/p&gt;
-
-&lt;p&gt;My continued fascination with motion control branched into art and educational uses&amp;ndash; as artist-in-residence at the Science Museum of Minnesota, 2001-4, I taught classes (kids building and programming their Eggbots) and worked on NSF-funded grants creating exhibits.  During the same period, I began ongoing series of large scale motion control sculptures that have been permanently installed in science centers in the US, Canada, Europe, and  Australia.  More info on both the educational and art sides of my work can be found &lt;a href=&#34;http://taomc.com/&#34;&gt;on my site&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Most recently, I have discovered (and fallen deeply in love) with makerspaces, starting as a member of &lt;a href=&#34;http://www.mnmill.org/&#34;&gt;The Mill&lt;/a&gt; in Minneapolis and then as one of the founders of &lt;a href=&#34;http://nordeastmakers.com/&#34;&gt;Nordeast Makers&lt;/a&gt; in St. Paul.  Now that my wife and I have moved out to Sebastopol, I am delighted to find Chimera and its wonderful community&amp;ndash; my hope is to continue both making, teaching and learning here!&lt;/p&gt;
-</description>
-    </item>
+    <title>Chimera Arts and Maker Space</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Chimera Arts and Maker Space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Equipment and Tools at Chimera</title>
-      <link>http://www.chimeraarts.org/about/equipment</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      <link>http://localhost:1313/about/equipment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.chimeraarts.org/about/equipment</guid>
+      <guid>http://localhost:1313/about/equipment/</guid>
       <description>
 
-&lt;p&gt;Chimera has a growing collection of &lt;strong&gt;awesome tools and equipment&lt;/strong&gt; at &lt;a href=&#34;/about/space/&#34;&gt;our space&lt;/a&gt;. Below is an incomplete list:&lt;/p&gt;
+&lt;p&gt;Chimera has a growing collection of &lt;strong&gt;awesome tools and equipment&lt;/strong&gt; at &lt;a href=&#34;http://localhost:1313/about/space/&#34;&gt;our space&lt;/a&gt;. Below is an incomplete list:&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Fabrication&lt;/h2&gt;
+&lt;h2 id=&#34;fabrication:f52cafe705773aae4a20a17bd8602569&#34;&gt;Fabrication&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;3D printers (Lulzbot TAZ)&lt;/li&gt;
-&lt;li&gt;Benchtop multi-axis CNC&lt;/li&gt;
+&lt;li&gt;Benchtop CNC Vertical Mill with 3 axis control, and rotary table&lt;/li&gt;
+&lt;li&gt;Dental Mill with 3 axis control&lt;/li&gt;
+&lt;li&gt;Mach3 to control the Mills and other CNC tools&lt;/li&gt;
+&lt;li&gt;Aspire for gcode generation&lt;/li&gt;
+&lt;li&gt;Bridgeport Mill&lt;/li&gt;
+&lt;li&gt;CNC Plasma Cutter&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;Jewelry&lt;/h2&gt;
+&lt;h2 id=&#34;jewelry:f52cafe705773aae4a20a17bd8602569&#34;&gt;Jewelry&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Rolling mill&lt;/li&gt;
@@ -210,7 +42,7 @@
 &lt;li&gt;Tons of other tools and supplies.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_2&#34;&gt;Electronics&lt;/h2&gt;
+&lt;h2 id=&#34;electronics:f52cafe705773aae4a20a17bd8602569&#34;&gt;Electronics&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Digital oscilloscope&lt;/li&gt;
@@ -222,7 +54,7 @@
 &lt;li&gt;Test equipment&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_3&#34;&gt;Other Things&lt;/h2&gt;
+&lt;h2 id=&#34;other-things:f52cafe705773aae4a20a17bd8602569&#34;&gt;Other Things&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Photography strobe setup&lt;/li&gt;
@@ -234,114 +66,31 @@
 &lt;li&gt;Heating/AC&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_4&#34;&gt;Have a Donation?&lt;/h2&gt;
+&lt;h2 id=&#34;have-a-donation:f52cafe705773aae4a20a17bd8602569&#34;&gt;Have a Donation?&lt;/h2&gt;
 
-&lt;p&gt;Head over to our &lt;a href=&#34;/donate/&#34;&gt;Donate page&lt;/a&gt; to learn how donations work at Chimera.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Get in Touch with Chimera</title>
-      <link>http://www.chimeraarts.org/contact</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://www.chimeraarts.org/contact</guid>
-      <description>
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Got Questions?&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;If you&amp;rsquo;ve got general questions about Chimera, first reach out to members on our &lt;a href=&#34;https://groups.google.com/forum/#!forum/chimera-art-space&#34;&gt;Google Group&lt;/a&gt;&lt;/strong&gt;. Our members can answer most common questions about Chimera.&lt;/p&gt;
-
-&lt;p&gt;If you want to get in touch with &lt;a href=&#34;/about/leadership/&#34;&gt;Chimera administrators&lt;/a&gt;, please email us at: &lt;a href=&#34;mailto:info@chimeraarts.org&#34;&gt;info@chimeraarts.org&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Note:&lt;/strong&gt; Please be patient if we don&amp;rsquo;t respond right away, we get lots of email and we are all volunteers!&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Have Donations?&lt;/h2&gt;
-
-&lt;p&gt;If you&amp;rsquo;d like to donate equipment, time or money, please head on over to our &lt;a href=&#34;/donate/&#34;&gt;Donate page&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_2&#34;&gt;Want to Teach?&lt;/h2&gt;
-
-&lt;p&gt;If you&amp;rsquo;re interested in teaching at Chimera, please learn more on our &lt;a href=&#34;/about/teaching/&#34;&gt;Teachers page&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_3&#34;&gt;Stay In Touch&lt;/h2&gt;
-
-&lt;p&gt;If you&amp;rsquo;re curious about staying up to date with what&amp;rsquo;s going on at Chimera, &lt;em&gt;sign up to our &lt;a href=&#34;http://eepurl.com/zRv7D&#34;&gt;email newsletter&lt;/a&gt;&lt;/em&gt; to get an email once a month with announcements of new classes/events/meetups as well as news and updates.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_4&#34;&gt;Contact Info&lt;/h2&gt;
-
-&lt;p&gt;Our &lt;strong&gt;address&lt;/strong&gt; is:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;6791 Sebastopol Ave.&lt;br /&gt;
-Sebastopol, CA 95472&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Our &lt;strong&gt;phone number&lt;/strong&gt; is:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;(707) 861-0278&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Our &lt;strong&gt;email&lt;/strong&gt; is:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;mailto:info@chimeraarts.org&#34;&gt;info@chimeraarts.org&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bryce Dow-Williamson</title>
-      <link>http://www.chimeraarts.org/members/bryce-dow-williamson</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://www.chimeraarts.org/members/bryce-dow-williamson</guid>
-      <description>&lt;p&gt;Bryce Dow-Williamson works with community and creativity. Guided by a degree in Sustainable Business from Warren Wilson College, Bryce has been working with Chimera on marketing, community relations and organized the Chimera Creations Carnival in December.&lt;/p&gt;
-
-&lt;p&gt;Bryce was an integral part of the &lt;a href=&#34;http://www.metroactive.com/bohemian/07.23.08/music-barnrevival-0830.html&#34;&gt;Boogie Room and Gardens&lt;/a&gt;, a commune and venue in Santa Rosa from 2006-2009. While away at school Bryce &lt;a href=&#34;http://www.carolinahg.com/Carolina-Home-Garden/Winter-2011/Pixels-in-Perpetuity/&#34;&gt;curated art shows&lt;/a&gt;, joined a circus, converted an old army truck into an electric vehicle with the &lt;a href=&#34;http://warren-wilson.edu/blogs/blog/2013/06/19/auto-shop-crew-cranks-it-up-with-electric-truck/&#34;&gt;school&amp;rsquo;s auto shop&lt;/a&gt;, built houses and bamboo bikes in Alabama for a summer, made junk art and learned welding.&lt;/p&gt;
-
-&lt;p&gt;Down to help with any organization, advertising, art cars, welding or whatever for the good of the group&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Randy Hall</title>
-      <link>http://www.chimeraarts.org/members/randy-hall</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://www.chimeraarts.org/members/randy-hall</guid>
-      <description>&lt;p&gt;A transplant from Silicon Valley, Randy has been into technology his entire life. From his first Apple II Plus, loading games like Ultima II from his super sleek 5.25-inch floppy drive, all the way to working for high-tech giant Intel (when it was still small enough to be called &amp;ldquo;Little Blue&amp;rdquo;) for over 15 years, Randy has seen Silicon Valley come of age, and then some. Along the way he discovered that the Silicon Valley lifestyle was shortening his lifespan, so in 2006 he took the biggest risk of his life and moved to Sonoma County with his family.&lt;/p&gt;
-
-&lt;p&gt;You might ask, &amp;ldquo;what does this have to do with film?&amp;rdquo; to which Randy replies, &amp;ldquo;quiet, I&amp;rsquo;m telling a story here.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;Despite his software engineering background and high-tech pedigree, he recently trained at the &lt;a href=&#34;http://filmschoolsf.com&#34; title=&#34;Soon to be called &#39;Film School SF&#39;&#34;&gt;San Francisco School of Digital Filmmaking&lt;/a&gt; in an intensive 12-month filmmaking program, which, when combined with his decades of South Bay living and deep knowledge of technology, digital marketing, and business, instantly turned the lightbulb on inside his skull. He&amp;rsquo;s now building his &lt;a href=&#34;http://vomproductions.com&#34; title=&#34;VOM Productions&#34;&gt;production company&lt;/a&gt; one client at a time, with a clever blend of storytelling and visual effects. His short documentary &amp;ldquo;Udderly Direct&amp;rdquo; was screened at several film festivals, including the Sebastopol Documentary Film Festival in 2013. He has produced and filmed other award-winning short films in his relatively short film career and is on his way to becoming a producer to be reckoned with. In 2013, back when Chimera was still a toddler, Randy produced and directed a short film for the &lt;a href=&#34;http://www.48hourfilm.com/en/santarosa/&#34; title=&#34;Just this little film project thing&#34;&gt;48 Hour Film Project Santa Rosa&lt;/a&gt; along with an all-Sonoma County cast and crew, with the team headquartered at the Chimera Art Space for the weekend of the event.&lt;/p&gt;
-
-&lt;p&gt;From 2007 to 2012, Randy produced and co-hosted a wine industry-related radio/podcast program called &lt;a href=&#34;http://winebizradio.com&#34;&gt;Wine Biz Radio&lt;/a&gt; along with his best buddies Rick &amp;ldquo;Kaz&amp;rdquo; Kasmier and Christophe &amp;ldquo;X&amp;rdquo; Smith. They have dreams of a reunion tour; but honestly, they need their time apart. Lately, Randy has started a new podcast, much in the same vein as Wine Biz Radio, but about the film industry. He hosts it along with a fine young gentleman in San Francisco named Ben Yennie, with the working title of &amp;ldquo;Film Insight: The Producer Foundry Podcast&amp;rdquo;. Yes, it&amp;rsquo;s something of a mouthful, and they&amp;rsquo;re still working on it.&lt;/p&gt;
-
-&lt;p&gt;When he grows up, Randy wants to be the ultimate Renaissance Man, moving freely between the realms of art, science, philosophy, business, and politics with an ease unknown to mere mortals. But in the meantime, he&amp;rsquo;s down for creating film and other art projects, reawakening the wounded software development child inside him, and hacking on electronics, while learning to build laser cutters and CNC mills and 3D printers, all from scratch (if he has anything to say about it!)&lt;/p&gt;
+&lt;p&gt;Head over to our &lt;a href=&#34;http://localhost:1313/donate/&#34;&gt;Donate page&lt;/a&gt; to learn how donations work at Chimera.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Frequently Asked Questions</title>
-      <link>http://www.chimeraarts.org/about/faq</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      <link>http://localhost:1313/about/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.chimeraarts.org/about/faq</guid>
+      <guid>http://localhost:1313/about/faq/</guid>
       <description>
 
-&lt;h3 id=&#34;toc_0&#34;&gt;Where is Chimera?&lt;/h3&gt;
+&lt;h3 id=&#34;where-is-chimera:4a1318da06786ac52626178ca960109e&#34;&gt;Where is Chimera?&lt;/h3&gt;
 
-&lt;p&gt;We&amp;rsquo;re located in downtown Sebastopol, California, an hour north of San Francisco. &lt;a href=&#34;/about/&#34;&gt;Learn more&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;re located in downtown Sebastopol, California, an hour north of San Francisco. &lt;a href=&#34;http://localhost:1313/about/&#34;&gt;Learn more&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;toc_1&#34;&gt;What tools and equipment does Chimera have?&lt;/h3&gt;
+&lt;h3 id=&#34;what-tools-and-equipment-does-chimera-have:4a1318da06786ac52626178ca960109e&#34;&gt;What tools and equipment does Chimera have?&lt;/h3&gt;
 
-&lt;p&gt;Head over to our &lt;a href=&#34;/about/equipment/&#34;&gt;tools and equipment&lt;/a&gt; page to learn about what we have to offer.&lt;/p&gt;
+&lt;p&gt;Head over to our &lt;a href=&#34;http://localhost:1313/about/equipment/&#34;&gt;tools and equipment&lt;/a&gt; page to learn about what we have to offer.&lt;/p&gt;
 
-&lt;h3 id=&#34;toc_2&#34;&gt;How do you pronounce Chimera?&lt;/h3&gt;
+&lt;h3 id=&#34;how-do-you-pronounce-chimera:4a1318da06786ac52626178ca960109e&#34;&gt;How do you pronounce Chimera?&lt;/h3&gt;
 
-&lt;div class=&#34;embed video-player&#34;&gt;
+&lt;p&gt;&lt;div class=&#34;embed video-player&#34;&gt;
   &lt;iframe 
     class=&#34;youtube-player&#34; 
     type=&#34;text/html&#34; 
@@ -352,24 +101,25 @@ Sebastopol, CA 95472&lt;/p&gt;
     frameborder=&#34;0&#34;&gt;
   &lt;/iframe&gt;
 &lt;/div&gt;
+&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Chimera&#39;s History</title>
-      <link>http://www.chimeraarts.org/about/history</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      <link>http://localhost:1313/about/history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.chimeraarts.org/about/history</guid>
+      <guid>http://localhost:1313/about/history/</guid>
       <description>
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Founding &amp;amp; Early Days&lt;/h2&gt;
+&lt;h2 id=&#34;founding-early-days:ede98e4633e239f933cbfd1f4e1b766c&#34;&gt;Founding &amp;amp; Early Days&lt;/h2&gt;
 
-&lt;p&gt;Chimera was founded in early 2012 by &lt;a href=&#34;/about/leadership/&#34;&gt;Dana Woodman&lt;/a&gt; and a small group of people who had a vision for Sonoma County and what it could become. We founded Chimera both as a space to create and a hub for the creative community in this area.&lt;/p&gt;
+&lt;p&gt;Chimera was founded in early 2012 by &lt;a href=&#34;http://localhost:1313/about/leadership/&#34;&gt;Dana Woodman&lt;/a&gt; and a small group of people who had a vision for Sonoma County and what it could become. We founded Chimera both as a space to create and a hub for the creative community in this area.&lt;/p&gt;
 
 &lt;p&gt;For the first few months of our history, we grew our community from a few friends to a group of over 800 people. &lt;em&gt;We quickly realized that Sonoma County and the North Bay was craving a space like Chimera&lt;/em&gt;, so we set making the dream a reality.&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;Ford Garage&lt;/h2&gt;
+&lt;h2 id=&#34;ford-garage:ede98e4633e239f933cbfd1f4e1b766c&#34;&gt;Ford Garage&lt;/h2&gt;
 
 &lt;p&gt;After searching for a space, the Chimera founders settled on the old Ford Garage building in downtown Sebastopol.&lt;/p&gt;
 
@@ -377,91 +127,383 @@ Sebastopol, CA 95472&lt;/p&gt;
 
 &lt;p&gt;Luckily our &lt;em&gt;landlord was a believer in our mission&lt;/em&gt; and decided to undertake the renovations himself.&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_2&#34;&gt;Today&lt;/h2&gt;
+&lt;h2 id=&#34;today:ede98e4633e239f933cbfd1f4e1b766c&#34;&gt;Today&lt;/h2&gt;
 
 &lt;p&gt;We &lt;strong&gt;opened for membership in December 2013&lt;/strong&gt; after getting our business license and insurance.&lt;/p&gt;
 
 &lt;p&gt;We&amp;rsquo;re operating in our smaller, 700 sq.ft. mini-makerspace in the back lot of the Ford Garage until the main space is ready for us to move in.&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_3&#34;&gt;Tomorrow&lt;/h2&gt;
+&lt;h2 id=&#34;tomorrow:ede98e4633e239f933cbfd1f4e1b766c&#34;&gt;Tomorrow&lt;/h2&gt;
 
 &lt;p&gt;Our story is continually evolving and if we remember, we&amp;rsquo;ll keep this page updated as we go!&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Chimera&#39;s Wish List</title>
-      <link>http://www.chimeraarts.org/wishlist</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      <title>Branding Assets</title>
+      <link>http://localhost:1313/about/assets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.chimeraarts.org/wishlist</guid>
+      <guid>http://localhost:1313/about/assets/</guid>
       <description>
 
-&lt;p&gt;Chimera is in need of the following items to outfit our space. If you have some of the following items, &lt;strong&gt;please post on our&lt;/strong&gt; &lt;a href=&#34;https://groups.google.com/forum/#!forum/chimera-art-space&#34;&gt;&lt;strong&gt;Google Group&lt;/strong&gt;&lt;/a&gt; &lt;strong&gt;describing what you have&lt;/strong&gt; (and ideally a photo or two).&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Cool Toys&lt;/h2&gt;
+&lt;h2 id=&#34;logo:ee118ebf16a4069ead6ee055bd1afe43&#34;&gt;Logo&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Laser cutter&lt;/li&gt;
-&lt;li&gt;3D printers&lt;/li&gt;
-&lt;li&gt;CNC mills&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/static/assets/logo/chimera-logo.png&#34;&gt;PNG file&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/static/assets/logo/chimera-logo.psd&#34;&gt;PSD file&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/static/assets/logo/chimera-logo.eps&#34;&gt;EPS file&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/static/assets/logo/chimera-logo.dwg&#34;&gt;DWG file&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About Chimera</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>
 
-&lt;h2 id=&#34;toc_1&#34;&gt;Organizational&lt;/h2&gt;
+&lt;p&gt;Chimera is a community arts and maker space in Sebastopol, California. We&amp;rsquo;re a diverse group of artists, makers, hackers and inventors who share a common desire to create, share and learn from each other.&lt;/p&gt;
+
+&lt;h2 id=&#34;learn-more:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Learn More&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Cabinets&lt;/li&gt;
-&lt;li&gt;Storage containers&lt;/li&gt;
-&lt;li&gt;Peg boards (and hooks)&lt;/li&gt;
-&lt;li&gt;Window blinds&lt;/li&gt;
+&lt;li&gt;Read our &lt;a href=&#34;http://localhost:1313/about/faq/&#34;&gt;FAQ&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Check out our current &lt;a href=&#34;http://localhost:1313/about/status/&#34;&gt;organization status&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;See what &lt;a href=&#34;http://localhost:1313/about/equipment/&#34;&gt;tools and equipment&lt;/a&gt; we offer.&lt;/li&gt;
+&lt;li&gt;Learn how to use our tools with &lt;a href=&#34;http://localhost:1313/about/sbu/&#34;&gt;Safety and Basic Use (SBU)&lt;/a&gt; references.&lt;/li&gt;
+&lt;li&gt;Read our &lt;a href=&#34;http://localhost:1313/about/mission/&#34;&gt;mission and vision statements&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Learn about &lt;a href=&#34;http://localhost:1313/about/history/&#34;&gt;Chimera&amp;rsquo;s history&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;See who is on our &lt;a href=&#34;http://localhost:1313/about/leadership/&#34;&gt;board and leadership committees&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Learn about our &lt;a href=&#34;http://localhost:1313/about/space/&#34;&gt;current space&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/about/teaching/&#34;&gt;Teach at Chimera&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;View our &lt;a href=&#34;http://localhost:1313/press/&#34;&gt;press page&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Download our &lt;a href=&#34;http://localhost:1313/about/assets/&#34;&gt;logo and other assets&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Interested in donating? Checkout our &lt;a href=&#34;http://localhost:1313/donate/&#34;&gt;Donate page&lt;/a&gt; and our &lt;a href=&#34;http://localhost:1313/wishlist/&#34;&gt;Wishlist&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chimera&#39;s Board and Leadership</title>
+      <link>http://localhost:1313/about/leadership/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/leadership/</guid>
+      <description>
 
-&lt;h2 id=&#34;toc_2&#34;&gt;Parts&lt;/h2&gt;
+&lt;h2 id=&#34;our-board:38599f764944d27c578404510417a08b&#34;&gt;Our Board&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Stepper motors, servos&lt;/li&gt;
-&lt;li&gt;LEDs&lt;/li&gt;
-&lt;li&gt;Breadboards&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Oren Slozberg&lt;/strong&gt; - President&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Rob Cary&lt;/strong&gt; - Treasurer&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/members/dana-woodman/&#34;&gt;Dana Woodman&lt;/a&gt;&lt;/strong&gt; - Founder, Executive Director&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Terry Beyak&lt;/strong&gt; - Co-Founder, Secretary&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Spring Maxfield&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Caleb Adam Haye&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_3&#34;&gt;Tools&lt;/h2&gt;
+&lt;h2 id=&#34;board-bios:38599f764944d27c578404510417a08b&#34;&gt;Board Bios&lt;/h2&gt;
+
+&lt;h3 id=&#34;oren-slozberg:38599f764944d27c578404510417a08b&#34;&gt;Oren Slozberg&lt;/h3&gt;
+
+&lt;p&gt;Oren Slozberg has been working in the field of Education and the Arts for the last 25 years. His specialty areas include youth development theory as well as the use of art to promote critical thinking, aesthetic development and cognitive growth. For the last ten years Slozberg &lt;strong&gt;has been at the helm of Visual Thinking Strategies (VTS), a research-based pedagogy&lt;/strong&gt; that builds cognition, critical thinking, teamwork and language skills through engagement with visual art. Slozberg first served as director of VTS in Northern California, and then for the last seven years as the program&amp;rsquo;s first National Director.&lt;/p&gt;
+
+&lt;p&gt;A &lt;strong&gt;non-profit veteran, Slozberg has raised over $10 million, managed several successful non-profit start-ups and scaled up existing programs both programmatically and fiscally&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;rob-cary:38599f764944d27c578404510417a08b&#34;&gt;Rob Cary&lt;/h3&gt;
+
+&lt;p&gt;Rob Cary was raised in Ohio and educated in Ohio, Maryland and Michigan. A graduate of Antioch College in Ohio and the University of Michigan, he completed a Smithsonian Fellowship in Maryland, worked as a legislative aide to Maryland State Senator W. Goodman and completed his M.S. in Natural Resource Policy at the University of Michigan. While at U of M, Rob &lt;strong&gt;designed gaming simulations for the UN FAO and USAID on food systems in developing countries&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Looking for hills with roads that curved, he moved to Sonoma county in 1978. For these past 35 years Rob has had both leadership and ownership positions in the business world as well as serving on various nonprofit boards. From working at Frizelle Enos, to opening up and managing the Real Goods Trading Company store in Santa Rosa and then co-owning Power Service Group, Inc., a company related to energy systems, he has had held many and varied jobs in the business world.&lt;/p&gt;
+
+&lt;p&gt;At the same time, Rob has been equally involved in non-profit community related efforts. Rob &lt;strong&gt;served on the boards of the Community Network, The Bodega Land Trust and the Sebastopol Community Cultural Center&lt;/strong&gt;.  For a short time he was also the Director of the Sebastopol Community Cultural Center.&lt;/p&gt;
+
+&lt;h3 id=&#34;caleb-adam-haye:38599f764944d27c578404510417a08b&#34;&gt;Caleb Adam Haye&lt;/h3&gt;
+
+&lt;p&gt;Caleb Adam Haye has been &lt;strong&gt;developing software professionally since 1997&lt;/strong&gt;. He now works full time as Principal of Fire, Inc., a software development consulting company based out of the San Francisco Bay Area. Caleb formed Fire in 2005, moved the company to Sebastopol in 2008, and since has &lt;strong&gt;built web and mobile apps for companies like Google, Apple, Intuit, Netflix, Yahoo!, Visa, Genentech, and Adobe&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;As a former Yahoo! employee, he was the initial member of the Yahoo! Media Innovation Group, pushing the boundaries of rich Internet and client media software on a variety of content delivery platforms.  While at Yahoo!, Caleb also was on the winning team for Yahoo&amp;rsquo;s inaugural Hack Day.&lt;/p&gt;
+
+&lt;p&gt;Caleb is a sought after speaker at technology events around the world, and taught as a professor at the Academy of Art Graduate School of New Media. Caleb has worked with and in some of the worlds most respected research laboratories, including Google Creative Labs, IDEO and Xerox Palo Alto Research Center.&lt;/p&gt;
+
+&lt;h3 id=&#34;spring-maxfield:38599f764944d27c578404510417a08b&#34;&gt;Spring Maxfield&lt;/h3&gt;
+
+&lt;p&gt;Spring Maxfield is a curator, event planner and avid supporter of all things art. With a background deeply rooted in DIY culture, Spring applies her experience and education in both art history and museum studies to create vibrant community based art projects through various approaches. An art curator for over fifteen years, Spring&amp;rsquo;s work has included shows in underground galleries, wineries as well as established art institutions. She has also worked as a costume designer and seamstress within her local theater community.&lt;/p&gt;
+
+&lt;p&gt;After years of putting on art events, in 2008 &lt;strong&gt;Spring co-founded The Great Handcar Regatta festival&lt;/strong&gt; which at its peak drew an attendance of up to 18,000 participants. In addition, her innovative organizational skills have been utilized at &lt;strong&gt;events such as Iron Horse Winery&amp;rsquo;s Earth Day Celebration, The Harmony Festival and Maker Faire&lt;/strong&gt;.  Spring&amp;rsquo;s support for the arts also overflows into community involvement and public art projects, where she serves on a number of grassroots, city government and private art foundation committees.&lt;/p&gt;
+
+&lt;p&gt;Spring holds a BA in Art History and Art Practice from Sonoma State University and an MA in Museum Studies from San Francisco State University. When not busy constructing clothing, curating art shows, improving her neighborhood with public art advocacy or riding one of her homemade bicycle contraptions, Spring can be found in the garden at her mini urban homestead with her husband and daughters in Sonoma County, CA.&lt;/p&gt;
+
+&lt;h3 id=&#34;dana-woodman-members-dana-woodman:38599f764944d27c578404510417a08b&#34;&gt;&lt;a href=&#34;http://localhost:1313/members/dana-woodman/&#34;&gt;Dana Woodman&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Dana &lt;strong&gt;founded Chimera Art Space in early 2012&lt;/strong&gt; as a place to bring talented, creative and innovative people in the North Bay together. He has worked as a software consultant and serial entrepreneur for nearly a decade, &lt;strong&gt;working with companies including Google and Comcast&lt;/strong&gt; and founding two companies. He studied fine art at the University of the Pacific. He loves traveling, the outdoors and kittens.&lt;/p&gt;
+
+&lt;h3 id=&#34;terry-carroll-beyak:38599f764944d27c578404510417a08b&#34;&gt;Terry Carroll-Beyak&lt;/h3&gt;
+
+&lt;p&gt;Terry has been a software developer for two years. He co-founded the software development consultancy firm Teleporter along with Dana Woodman in 2012.  His software career was a dramatic shift from his university education in Environmental Studies at University of California, Santa Cruz. He also &lt;strong&gt;worked on the Obama 08 campaign&lt;/strong&gt;, and interned briefly at two newspapers, the Salinas Californian, and City on a Hill Press. He also &lt;strong&gt;curated and planned TEDxSantaRosa&lt;/strong&gt;, an independently organized event in the style of the TED conference.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mission and Vision</title>
+      <link>http://localhost:1313/about/mission/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/mission/</guid>
+      <description>
+
+&lt;h2 id=&#34;our-mission:1318896575a1e9bd09fb6fde5864f80a&#34;&gt;Our Mission&lt;/h2&gt;
+
+&lt;p&gt;We aim to provide resources, education and community to creative people in Sonoma County and California’s North Bay.&lt;/p&gt;
+
+&lt;h2 id=&#34;our-vision:1318896575a1e9bd09fb6fde5864f80a&#34;&gt;Our Vision&lt;/h2&gt;
+
+&lt;p&gt;Chimera Arts &amp;amp; Maker Space brings access to equipment, supplies, space and education for artists, makers, hackers, inventors and creative people of all types. We strive to positively influence the arts and maker communities in Sonoma County, California.&lt;/p&gt;
+
+&lt;p&gt;Chimera believes that by keeping talented people in the North Bay, Sonoma County will become a more vibrant, modern and competitive region as a whole. We are working to engage with people of all ages to show them new, innovative forms of expression and creation.&lt;/p&gt;
+
+&lt;p&gt;We give people new, relevant skills and experience for a changing world by encouraging entrepreneurship and innovation in the region.&lt;/p&gt;
+
+&lt;p&gt;Chimera is creating a thriving and diverse community of creative people that will have a profound impact on Sonoma County.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CNC Benchtop and Dental Mills</title>
+      <link>http://localhost:1313/about/sbu/cncmills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/sbu/cncmills/</guid>
+      <description>
+
+&lt;h2 id=&#34;cnc-vertical-mill:99f98315ff5c1728e0a5eee211aa1ebf&#34;&gt;CNC Vertical Mill&lt;/h2&gt;
+
+&lt;h3 id=&#34;get-started:99f98315ff5c1728e0a5eee211aa1ebf&#34;&gt;Get Started&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Turn on the power strip under the mill table&lt;/li&gt;
+&lt;li&gt;Turn on the computer under the mill&lt;/li&gt;
+&lt;li&gt;Turn on the CNC control box - the box under the mill table&lt;/li&gt;
+&lt;li&gt;Pull out the Emergency stop on the left side of the mill&lt;/li&gt;
+&lt;li&gt;Start Mach 3. There are two configurations, one for the benchtop mill and one for the dental mill.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;shut-down:99f98315ff5c1728e0a5eee211aa1ebf&#34;&gt;Shut down&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Shutdown the computer&lt;/li&gt;
+&lt;li&gt;Turn off the CNC Control box&lt;/li&gt;
+&lt;li&gt;Turn off the power strip under the mill table&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;work-holding:99f98315ff5c1728e0a5eee211aa1ebf&#34;&gt;Work Holding&lt;/h3&gt;
+
+&lt;p&gt;The easy way is to start with foam blocks and double sided tape. After that, when moving to heavier materials it turns out that
+securing the work is one of the big challenges of CNC work. We have
+a vise for smaller work, and a &lt;a href=&#34;http://manuals.harborfreight.com/manuals/90000-90999/90752.pdf&#34;&gt;Harbor Freight clamping kit&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/static/img/sbu/clamping_kit.jpg&#34; alt=&#34;alt text&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;This guide &lt;a href=&#34;http://its.foxvalleytech.com/MachShop3/basicmill/WorkHold.htm&#34;&gt;to work holding&lt;/a&gt; may serve as a useful starting point&amp;hellip;&lt;/p&gt;
+
+&lt;h2 id=&#34;dental-mill:99f98315ff5c1728e0a5eee211aa1ebf&#34;&gt;Dental Mill&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Safety and Basic Use (SBU) of our Tools</title>
+      <link>http://localhost:1313/about/sbu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/sbu/</guid>
+      <description>
+
+&lt;p&gt;References to how to safely use the tools at Chimera&lt;/p&gt;
+
+&lt;h2 id=&#34;learn-more:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Learn More&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Functional power tools (saws, drills, etc&amp;hellip;)&lt;/li&gt;
-&lt;li&gt;Tarps&lt;/li&gt;
-&lt;li&gt;Clamps&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/about/sbu/cncmills/&#34;&gt;Benchtop CNC Mill and Dental Mill&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/about/sbu/laser/&#34;&gt;Laser Cutter&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Laser Cutter</title>
+      <link>http://localhost:1313/about/sbu/laser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/sbu/laser/</guid>
+      <description>
 
-&lt;h2 id=&#34;toc_4&#34;&gt;Office / Kitchen&lt;/h2&gt;
+&lt;h2 id=&#34;laser-cutter:70d686135af234bc635385123a3919c0&#34;&gt;Laser Cutter&lt;/h2&gt;
+
+&lt;h3 id=&#34;get-started:70d686135af234bc635385123a3919c0&#34;&gt;Get Started&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Turn on &amp;hellip;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;shut-down:70d686135af234bc635385123a3919c0&#34;&gt;Shut down&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Shutdown the computer&lt;/li&gt;
+&lt;li&gt;Turn off &amp;hellip;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Current Status</title>
+      <link>http://localhost:1313/about/status/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/status/</guid>
+      <description>
+
+&lt;h2 id=&#34;membership:6562fefefc523a921714288dc55fdcdc&#34;&gt;Membership&lt;/h2&gt;
+
+&lt;div class=&#34;alert alert-success&#34;&gt;Chimera is currently &lt;strong&gt;open for membership in our mini-makerspace&lt;/strong&gt; in the back lot of the Ford Garage building in downtown Sebastopol.&lt;/div&gt;
+
+&lt;p&gt;Our main space at Chimera is undergoing construction and should be open in a few months (&lt;em&gt;no, we don&amp;rsquo;t have a specific date yet, sorry!&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;Learn more about our &lt;a href=&#34;http://localhost:1313/about/space/&#34;&gt;current space&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;fiscal-sponsorship:6562fefefc523a921714288dc55fdcdc&#34;&gt;Fiscal Sponsorship&lt;/h2&gt;
+
+&lt;p&gt;Chimera is fiscally sponsored by &lt;a href=&#34;http://sebarts.org/&#34;&gt;Sebastopol Center for the Arts&lt;/a&gt; which is the organization that allows us to accept charitable donations.&lt;/p&gt;
+
+&lt;h2 id=&#34;learn-more:6562fefefc523a921714288dc55fdcdc&#34;&gt;Learn More&amp;hellip;&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Office chairs!!!&lt;/li&gt;
-&lt;li&gt;White boards&lt;/li&gt;
-&lt;li&gt;Cork boards&lt;/li&gt;
-&lt;li&gt;Projectors (and screens)&lt;/li&gt;
-&lt;li&gt;Water tower (hot water a plus)&lt;/li&gt;
-&lt;li&gt;Full size refrigerator (clean and working!)&lt;/li&gt;
+&lt;li&gt;Learn more about &lt;a href=&#34;http://localhost:1313/membership/&#34;&gt;membership&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Learn more about &lt;a href=&#34;http://localhost:1313/about/space/&#34;&gt;our space&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chimera&#39;s Space</title>
+      <link>http://localhost:1313/about/space/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/space/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teach at Chimera</title>
+      <link>http://localhost:1313/about/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/teaching/</guid>
+      <description>
 
-&lt;h2 id=&#34;toc_5&#34;&gt;Decorations&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Interested in teaching at Chimera?&lt;/strong&gt; We&amp;rsquo;re always looking for talented educators to teach classes at Chimera.&lt;/p&gt;
+
+&lt;p&gt;Here are some things to know about being a teacher Chimera:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Christmas lights (working ones please!)&lt;/li&gt;
-&lt;li&gt;Awesome art!&lt;/li&gt;
+&lt;li&gt;You don&amp;rsquo;t need to have a degree in your area of knowledge (but that&amp;rsquo;s a plus!).&lt;/li&gt;
+&lt;li&gt;We take a percentage of class proceeds for paid classes. Usually it is &lt;em&gt;50% to you and 50% to the Chimera&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;You &lt;em&gt;don&amp;rsquo;t need to be a member to teach a class at Chimera&lt;/em&gt;, although members earn more when teaching.&lt;/li&gt;
+&lt;li&gt;Members get a discount on classes.&lt;/li&gt;
+&lt;li&gt;Classes are &lt;em&gt;open to the public&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;We appreciate references so we can vet you as a teacher.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Classes must be 6 students or less&lt;/em&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_6&#34;&gt;Other&lt;/h2&gt;
+&lt;p&gt;If you&amp;rsquo;re interested in teaching a class, &lt;em&gt;the first step is to post your idea in our &lt;a href=&#34;https://groups.google.com/forum/#!forum/chimera-art-space&#34;&gt;Google Group&lt;/a&gt;&lt;/em&gt; to see if members would be interested.&lt;/p&gt;
+
+&lt;h2 id=&#34;let-us-know:416f445d9bade50adf875443b512ceeb&#34;&gt;Let Us Know&lt;/h2&gt;
+
+&lt;p&gt;After you&amp;rsquo;ve read and completed the above, &lt;a href=&#34;http://localhost:1313/contact/&#34;&gt;contact us&lt;/a&gt; with the following information:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/donate/&#34;&gt;Money!&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;The answer to the meaning of life (and no, we won&amp;rsquo;t accept 47 as an answer!)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Proposed date(s)/time(s)&lt;/strong&gt; for your class (give us alternates in case a date isn&amp;rsquo;t available)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Class fee&lt;/strong&gt; per student (if any)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Materials fee&lt;/strong&gt; (if any)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prerequisites&lt;/strong&gt; for students (if any)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Class description&lt;/strong&gt; (2-3 paragraphs about the class, what will be taught and who the class is relevant to)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Teacher bio&lt;/strong&gt; (why should people trust you as a teacher?)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Age restrictions&lt;/strong&gt; for students (e.g. if it&amp;rsquo;s an adults only class, let us know!)&lt;/li&gt;
+&lt;li&gt;Any &lt;strong&gt;photos&lt;/strong&gt; of what students will learn (helps to sell your class)&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Calendar</title>
+      <link>http://localhost:1313/calendar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/calendar/</guid>
+      <description>
 
-&lt;h2 id=&#34;toc_7&#34;&gt;Not in the list?&lt;/h2&gt;
+&lt;p&gt;Check out our &lt;a href=&#34;http://bit.ly/chimera-calendar&#34;&gt;Google Calendar&lt;/a&gt; to see all our upcoming classes, meetups and events!&lt;/p&gt;
 
-&lt;p&gt;For items not in the list above, &lt;strong&gt;we require a member to take responsibility for the item&lt;/strong&gt;. The reason we do this is so that we don&amp;rsquo;t end up with a lot of things that aren&amp;rsquo;t used and just take up space and collect dust.&lt;/p&gt;
+&lt;iframe src=&#34;http://www.google.com/calendar/embed?src=chimeraarts.org_b4v4cunfv1ol6mrtm1ij64gh3g%40group.calendar.google.com&amp;amp;src=pcnv397snuh2s10cqt5hnda4nvfgta6s%40import.calendar.google.com&amp;amp;ctz=America/Los_Angeles&#34; style=&#34;border: 0&#34; width=&#34;100%&#34; height=&#34;600&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Post your item in our &lt;a href=&#34;https://groups.google.com/forum/#!forum/chimera-art-space&#34;&gt;&lt;strong&gt;Google Group&lt;/strong&gt;&lt;/a&gt; or reach out to a member who might be interested in taking responsibility for your item.&lt;/p&gt;
+&lt;h2 id=&#34;idea-for-an-event:a631103cf606bbead447236a29c6889e&#34;&gt;Idea for an Event?&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Have an event or meetup you want to host?&lt;/strong&gt; Propose it on our &lt;a href=&#34;http://www.meetup.com/Chimera-Arts-Maker-Space/&#34;&gt;Meetup.com page&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Want to teach at Chimera?&lt;/strong&gt; Check out our &lt;a href=&#34;http://localhost:1313/about/teaching/&#34;&gt;Teachers page&lt;/a&gt; to learn more.&lt;/p&gt;
+
+&lt;h2 id=&#34;meetup-com:a631103cf606bbead447236a29c6889e&#34;&gt;Meetup.com&lt;/h2&gt;
+
+&lt;p&gt;We also recommend checking out our &lt;a href=&#34;http://www.meetup.com/Chimera-Arts-Maker-Space/&#34;&gt;Meetup.com&lt;/a&gt; page if you want to get notified about new meetups and events.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Donate</title>
+      <link>http://localhost:1313/donate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/donate/</guid>
+      <description>
+
+&lt;h2 id=&#34;donate-now:e893892674bf973b5e7e5bb08ee38f06&#34;&gt;Donate Now!&lt;/h2&gt;
+
+&lt;form style=&#34;margin: 30px 0; padding: 15px 30px; background: #f6f6f6;&#34; action=&#34;https://www.paypal.com/cgi-bin/webscr&#34; method=&#34;post&#34; target=&#34;_top&#34;&gt;
+  &lt;input type=&#34;hidden&#34; name=&#34;cmd&#34; value=&#34;_s-xclick&#34;&gt;
+  &lt;input type=&#34;hidden&#34; name=&#34;hosted_button_id&#34; value=&#34;RNNAFX2NESYH4&#34;&gt;
+  &lt;input type=&#34;image&#34; src=&#34;https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif&#34; border=&#34;0&#34; name=&#34;submit&#34; alt=&#34;PayPal - The safer, easier way to pay online!&#34;&gt;
+  &lt;img alt=&#34;&#34; border=&#34;0&#34; src=&#34;https://www.paypalobjects.com/en_US/i/scr/pixel.gif&#34; width=&#34;1&#34; height=&#34;1&#34;&gt;
+&lt;/form&gt;
+
+&lt;p&gt;Your cash donation will go to helping us pay for rent and utilities, purchase equipment and supplies and put on events, meetups and classes!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;equipment:e893892674bf973b5e7e5bb08ee38f06&#34;&gt;Equipment&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Got something awesome you want us to have?&lt;/strong&gt; If you have equipment that you&amp;rsquo;d like to donate, please have a look at our &lt;a href=&#34;http://localhost:1313/wishlist/&#34;&gt;Wishlist page&lt;/a&gt; to see what we&amp;rsquo;re in need of and how equipment donations work at Chimera.&lt;/p&gt;
+
+&lt;h2 id=&#34;volunteering:e893892674bf973b5e7e5bb08ee38f06&#34;&gt;Volunteering&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Don&amp;rsquo;t have things or money to donate but want to help?&lt;/strong&gt; We&amp;rsquo;re always looking for people to help us clean and move things, produce events and do odd jobs. If that&amp;rsquo;s interesting to you, please let us know your availability on our &lt;a href=&#34;https://groups.google.com/forum/#!forum/chimera-art-space&#34;&gt;Google Group&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Have a particular skill?&lt;/strong&gt; Then you might want to consider &lt;a href=&#34;http://localhost:1313/about/teaching/&#34;&gt;teaching at Chimera&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;about-your-donation:e893892674bf973b5e7e5bb08ee38f06&#34;&gt;About Your Donation&lt;/h2&gt;
+
+&lt;h3 id=&#34;tax-receipt:e893892674bf973b5e7e5bb08ee38f06&#34;&gt;Tax Receipt&lt;/h3&gt;
+
+&lt;p&gt;Since we&amp;rsquo;re a 501(c)3 organization, we can offer tax receipts for valid donations we accept and that are valued. Tax receipts are for relatively large donations. If you donate some post-its&amp;reg;, we&amp;rsquo;re not going to give you a tax receipt.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;If you want a tax receipt for your donation, please let us know otherwise no receipt will be issued!&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;reimbursements:e893892674bf973b5e7e5bb08ee38f06&#34;&gt;Reimbursements&lt;/h3&gt;
+
+&lt;p&gt;Chimera does not offer any reimbursements for donations. If you&amp;rsquo;d like to donate something to Chimera and want something in return, the only thing we can offer is a tax receipt (and our thanks!).&lt;/p&gt;
 </description>
     </item>
     

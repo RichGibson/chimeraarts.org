@@ -7,7 +7,12 @@ Chimera has a growing collection of **awesome tools and equipment** at [our spac
 ## Fabrication
 
 - 3D printers (Lulzbot TAZ)
-- Benchtop multi-axis CNC
+- Benchtop CNC Vertical Mill with 3 axis control, and rotary table
+- Dental Mill with 3 axis control
+- Mach3 to control the Mills and other CNC tools
+- Aspire for gcode generation
+- Bridgeport Mill
+- CNC Plasma Cutter
 
 
 ## Jewelry
