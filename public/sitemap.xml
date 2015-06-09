@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/about/equipment/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/about/assets/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/about/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/about/history/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/about/leadership/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/about/sbu/cncmills/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/about/mission/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/about/sbu/laser/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/about/sbu/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/about/space/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/about/status/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/about/teaching/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/calendar/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/donate/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/fab/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/members/bruce-shapiro/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/members/bryce-dow-williamson/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/members/chris-reyes/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/members/caleb-adam-haye/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/members/dana-woodman/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/members/jim-wheaton/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/members/kyle-thompson/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/members/lee-vandeveer/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/members/nancy-lt-hamilton/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/members/randy-hall/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/membership/agreement/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/members/rich-gibson/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/membership/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/press/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/wishlist/</loc>
+  </url>
+  
+</urlset>

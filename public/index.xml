@@ -73,6 +73,25 @@
     </item>
     
     <item>
+      <title>Branding Assets</title>
+      <link>http://localhost:1313/about/assets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/assets/</guid>
+      <description>
+
+&lt;h2 id=&#34;logo:ee118ebf16a4069ead6ee055bd1afe43&#34;&gt;Logo&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/static/assets/logo/chimera-logo.png&#34;&gt;PNG file&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/static/assets/logo/chimera-logo.psd&#34;&gt;PSD file&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/static/assets/logo/chimera-logo.eps&#34;&gt;EPS file&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/static/assets/logo/chimera-logo.dwg&#34;&gt;DWG file&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Frequently Asked Questions</title>
       <link>http://localhost:1313/about/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -136,25 +155,6 @@
 &lt;h2 id=&#34;tomorrow:ede98e4633e239f933cbfd1f4e1b766c&#34;&gt;Tomorrow&lt;/h2&gt;
 
 &lt;p&gt;Our story is continually evolving and if we remember, we&amp;rsquo;ll keep this page updated as we go!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Branding Assets</title>
-      <link>http://localhost:1313/about/assets/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/about/assets/</guid>
-      <description>
-
-&lt;h2 id=&#34;logo:ee118ebf16a4069ead6ee055bd1afe43&#34;&gt;Logo&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/static/assets/logo/chimera-logo.png&#34;&gt;PNG file&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/static/assets/logo/chimera-logo.psd&#34;&gt;PSD file&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/static/assets/logo/chimera-logo.eps&#34;&gt;EPS file&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/static/assets/logo/chimera-logo.dwg&#34;&gt;DWG file&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
@@ -249,30 +249,6 @@
     </item>
     
     <item>
-      <title>Mission and Vision</title>
-      <link>http://localhost:1313/about/mission/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/about/mission/</guid>
-      <description>
-
-&lt;h2 id=&#34;our-mission:1318896575a1e9bd09fb6fde5864f80a&#34;&gt;Our Mission&lt;/h2&gt;
-
-&lt;p&gt;We aim to provide resources, education and community to creative people in Sonoma County and California’s North Bay.&lt;/p&gt;
-
-&lt;h2 id=&#34;our-vision:1318896575a1e9bd09fb6fde5864f80a&#34;&gt;Our Vision&lt;/h2&gt;
-
-&lt;p&gt;Chimera Arts &amp;amp; Maker Space brings access to equipment, supplies, space and education for artists, makers, hackers, inventors and creative people of all types. We strive to positively influence the arts and maker communities in Sonoma County, California.&lt;/p&gt;
-
-&lt;p&gt;Chimera believes that by keeping talented people in the North Bay, Sonoma County will become a more vibrant, modern and competitive region as a whole. We are working to engage with people of all ages to show them new, innovative forms of expression and creation.&lt;/p&gt;
-
-&lt;p&gt;We give people new, relevant skills and experience for a changing world by encouraging entrepreneurship and innovation in the region.&lt;/p&gt;
-
-&lt;p&gt;Chimera is creating a thriving and diverse community of creative people that will have a profound impact on Sonoma County.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>CNC Benchtop and Dental Mills</title>
       <link>http://localhost:1313/about/sbu/cncmills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -316,21 +292,26 @@ a vise for smaller work, and a &lt;a href=&#34;http://manuals.harborfreight.com/
     </item>
     
     <item>
-      <title>Safety and Basic Use (SBU) of our Tools</title>
-      <link>http://localhost:1313/about/sbu/</link>
+      <title>Mission and Vision</title>
+      <link>http://localhost:1313/about/mission/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/about/sbu/</guid>
+      <guid>http://localhost:1313/about/mission/</guid>
       <description>
 
-&lt;p&gt;References to how to safely use the tools at Chimera&lt;/p&gt;
+&lt;h2 id=&#34;our-mission:1318896575a1e9bd09fb6fde5864f80a&#34;&gt;Our Mission&lt;/h2&gt;
 
-&lt;h2 id=&#34;learn-more:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Learn More&lt;/h2&gt;
+&lt;p&gt;We aim to provide resources, education and community to creative people in Sonoma County and California’s North Bay.&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/about/sbu/cncmills/&#34;&gt;Benchtop CNC Mill and Dental Mill&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/about/sbu/laser/&#34;&gt;Laser Cutter&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h2 id=&#34;our-vision:1318896575a1e9bd09fb6fde5864f80a&#34;&gt;Our Vision&lt;/h2&gt;
+
+&lt;p&gt;Chimera Arts &amp;amp; Maker Space brings access to equipment, supplies, space and education for artists, makers, hackers, inventors and creative people of all types. We strive to positively influence the arts and maker communities in Sonoma County, California.&lt;/p&gt;
+
+&lt;p&gt;Chimera believes that by keeping talented people in the North Bay, Sonoma County will become a more vibrant, modern and competitive region as a whole. We are working to engage with people of all ages to show them new, innovative forms of expression and creation.&lt;/p&gt;
+
+&lt;p&gt;We give people new, relevant skills and experience for a changing world by encouraging entrepreneurship and innovation in the region.&lt;/p&gt;
+
+&lt;p&gt;Chimera is creating a thriving and diverse community of creative people that will have a profound impact on Sonoma County.&lt;/p&gt;
 </description>
     </item>
     
@@ -360,6 +341,34 @@ a vise for smaller work, and a &lt;a href=&#34;http://manuals.harborfreight.com/
     </item>
     
     <item>
+      <title>Safety and Basic Use (SBU) of our Tools</title>
+      <link>http://localhost:1313/about/sbu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/sbu/</guid>
+      <description>
+
+&lt;p&gt;References to how to safely use the tools at Chimera&lt;/p&gt;
+
+&lt;h2 id=&#34;learn-more:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Learn More&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/about/sbu/cncmills/&#34;&gt;Benchtop CNC Mill and Dental Mill&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/about/sbu/laser/&#34;&gt;Laser Cutter&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chimera&#39;s Space</title>
+      <link>http://localhost:1313/about/space/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/space/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Current Status</title>
       <link>http://localhost:1313/about/status/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -386,15 +395,6 @@ a vise for smaller work, and a &lt;a href=&#34;http://manuals.harborfreight.com/
 &lt;li&gt;Learn more about &lt;a href=&#34;http://localhost:1313/about/space/&#34;&gt;our space&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Chimera&#39;s Space</title>
-      <link>http://localhost:1313/about/space/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/about/space/</guid>
-      <description></description>
     </item>
     
     <item>
